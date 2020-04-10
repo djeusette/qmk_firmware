@@ -1,3 +1,9 @@
+# DJ Steps
+
+1. `./util/qmk_install.sh`
+2. `make massdrop:ctrl:mac_md_dav`
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)

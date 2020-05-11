@@ -1,7 +1,7 @@
 # DJ Steps
 
 1. `./util/qmk_install.sh`
-2. `make massdrop:ctrl:mac_md_dav`
+2. `make massdrop/ctrl:mac_md_dav`
 
 
 # Quantum Mechanical Keyboard Firmware
